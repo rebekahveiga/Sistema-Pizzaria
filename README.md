@@ -18,7 +18,7 @@
 
 
 
-5- Por fim, essa foi todas a estrutura do Backend e Frontend do projeto, no futuro será desenvolvido um aplicativo para o sistema web!
+5- Por fim, essa foi todas a estrutura do Backend e Frontend do projeto, no futuro será desenvolvido um aplicativo com ReactNative!
 
 
 
